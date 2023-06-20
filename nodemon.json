@@ -10,7 +10,7 @@
         "ts": "ts-node"
     },
     "events": {
-        "restart": "npm run lint:check"
+        "restart": "yarn run lint:check"
     },
     "env": {
         "NODE_ENV": "development"
